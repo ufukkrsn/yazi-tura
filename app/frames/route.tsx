@@ -1,5 +1,6 @@
 import { Frog, Button } from "frog";
 import { handle } from "frog/next";
+
 export const runtime = "edge";
 
 const app = new Frog({ title: "Yazı-Tura" });
